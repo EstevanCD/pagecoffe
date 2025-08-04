@@ -10,7 +10,7 @@ const products = [
     image: "/assets/IMG_01.jpg",
   },
   {
-    name: "Vaeriedad Borbón Rosado",
+    name: "Variedad Borbón Rosado Honey",
     description:
       "Una experiencia delicada y elegante. Esta variedad ofrece un aroma floral marcado por jazmín, acompañado de notas cítricas brillantes y una acidez balanceada. Su perfil combina la dulzura de la miel con frutos rojos y un cuerpo sedoso, ideal para paladares que buscan una taza aromática, dulce y sofisticada.",
     price: "$4",
@@ -18,7 +18,7 @@ const products = [
   },
   ,
   {
-    name: "Vaeriedad Tabi",
+    name: "Variedad Tabi",
     description:
       "Un café de perfil suave y balanceado, ideal para quienes buscan una taza armoniosa. Destaca por su delicado aroma floral, acompañado de una acidez media que realza las notas de frutos rojos. Su cuerpo ligero permite apreciar sutiles matices de caramelo y panela, brindando una experiencia dulce y refinada.",
     price: "$4",
