@@ -4,6 +4,7 @@ import AboutSection from "./components/AboutSection";
 import GallerySection from "./components/GallerySection";
 import ProductSection from "./components/ProductSection";
 import ProcessSection from "./components/ProcessSection";
+import SocialMediaSection from "./components/SocialMediaSection";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <ProductSection />
       <ProcessSection />
       <GallerySection />
+       <SocialMediaSection />
       {/* Aquí podrías añadir más secciones como menú, contacto, etc. */}
     </div>
   );
