@@ -17,9 +17,9 @@ const processes = [
   },
   {
     icon: FaGrinStars,
-    title: " Honey - Bourbon Rosado",
+    title: "Bourbon Rosado Honey",
     description:
-      "La elegancia del café en su máxima expresión. Una variedad delicada y exquisita, que conserva la dulzura natural del fruto en cada grano. El resultado es una taza vibrante, elegante y profundamente aromática. Panela y miel de caña, que aportan un dulzor redondo y envolvente. Frutos rojos maduros, como frambuesa y cereza, que despiertan los sentidos. Manzana verde y un toque floral sutil. Una acidez brillante y cítrica, equilibrada con una textura sedosa en boca. Este café no solo cuenta una historia de origen y cuidado, sino que entrega una experiencia refinada para los paladares más curiosos y sensibles. Tu Mañanero Honey - Bourbon Rosado es el arte de lo artesanal, el lujo de lo natural, y la dulzura que solo la tierra sabe entregar. Vívelo. Siéntelo. Repítelo.",
+      "La elegancia del café en su máxima expresión. Una variedad delicada y exquisita, que conserva la dulzura natural del fruto en cada grano. El resultado es una taza vibrante, elegante y profundamente aromática. Panela y miel de caña, que aportan un dulzor redondo y envolvente. Frutos rojos maduros, como frambuesa y cereza, que despiertan los sentidos. Manzana verde y un toque floral sutil. Una acidez brillante y cítrica, equilibrada con una textura sedosa en boca. Este café no solo cuenta una historia de origen y cuidado, sino que entrega una experiencia refinada para los paladares más curiosos y sensibles. Tu Mañanero Bourbon Rosado Honey es el arte de lo artesanal, el lujo de lo natural, y la dulzura que solo la tierra sabe entregar. Vívelo. Siéntelo. Repítelo.",
   },
   {
     icon: FaTruck,
