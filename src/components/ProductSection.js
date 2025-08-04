@@ -28,7 +28,7 @@ const products = [
 ];
 
 const ProductSection = () => {
-  const whatsappNumber = "573173743002"; //número de WhatsApp
+  const whatsappNumber = "573113123168"; //número de WhatsApp
 
   const handleOrderClick = (productName) => {
     const message = encodeURIComponent(

@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const HeroSection = () => {
-  const whatsappNumber = '573173743002'; //número de WhatsApp
+  const whatsappNumber = '573113123168'; //número de WhatsApp
   const whatsappMessage = encodeURIComponent('¡Hola! Me gustaría hacer un pedido de café.');
 
   return (
