@@ -7,7 +7,7 @@ const images = [
   // { src: '/assets/IMG_03.jpg', alt: 'Taza de Café' },
   // { src: '/assets/IMG_04.jpg', alt: 'Barista' }, //si
   { src: '/assets/IMG_05.jpg', alt: 'Café con arte' },
-  { src: '/assets/IMG_06.jpg', alt: 'Café rosado' },
+  { src: '/assets/IMG_06.jpg', alt: 'Café especial' },
   { src: '/assets/IMG_07.jpg', alt: 'Café en grano' }, //si
   { src: '/assets/IMG_08.jpg', alt: 'Café en taza' },
   // { src: '/assets/IMG_09.jpg', alt: 'Café en la naturaleza' },
